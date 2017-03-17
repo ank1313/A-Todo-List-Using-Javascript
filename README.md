@@ -1,1 +1,1 @@
-A Todo List Using Made Using Javascript and Html.
+A Todo List Made Using Javascript and Html.
